@@ -1,1 +1,1 @@
-# blog-custom-github-action
+# custom-github-action
